@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T20:55:26.533245+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-12-06T21:33:01.306456+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,26 @@
             1,
             5,
             9,
-            15
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 21时33分]"
+        },
+        {
+          "title": "报告：预计到2030年中国培育钻石市场规模将超千亿元",
+          "url": "https://flash.jin10.com/detail/20251206184532364800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            17,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时59分 ~ 20时55分]"
+          "time_info": "[19时23分 ~ 21时33分]"
         },
         {
           "title": "食材供应链转向精细化，2025年我国食材消费市场规模有望突破10万亿元",
@@ -34,19 +49,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时27分 ~ 16时59分]"
-        },
-        {
-          "title": "报告：预计到2030年中国培育钻石市场规模将超千亿元",
-          "url": "https://flash.jin10.com/detail/20251206184532364800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时55分]"
         }
       ]
     },
@@ -94,11 +96,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时28分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[17时28分 ~ 21时33分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -126,11 +129,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时01分 ~ 20时55分]"
+          "appearance_count": 27,
+          "time_info": "[12时01分 ~ 21时33分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
@@ -178,9 +182,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 21时33分]"
         }
       ]
     },
@@ -194,11 +198,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时55分]"
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时33分]"
         }
       ]
     },
@@ -212,11 +217,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时58分 ~ 20时55分]"
+          "appearance_count": 5,
+          "time_info": "[19时58分 ~ 21时33分]"
         }
       ]
     }
